@@ -314,3 +314,4 @@ BSF:
 
 
 # RESULT
+Thus , The rectangular window was run successfully for the FIR filter
